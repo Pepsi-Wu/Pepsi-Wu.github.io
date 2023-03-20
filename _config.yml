@@ -1,6 +1,6 @@
 # Setup
-title: Poole
-tagline: The Jekyll Butler
+title: Shawn
+tagline: an Electriacl Engineer
 url: https://pepsi-wu.github.io
 paginate: 1
 baseurl: ""
@@ -33,9 +33,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Shawn(Shang) Wu
+  url: https://pepsi-wu.github.io
+  email: 140380@stu.hebut.edu.cn
 
 # Custom vars
 version: 3.0.0
